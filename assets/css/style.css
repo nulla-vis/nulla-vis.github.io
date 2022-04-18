@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    line-height: 26px;
+    color: #737373;
+}
+
+section {
+    padding-top: 6rem;
+}
+
+.navbar, footer {
+    background-color: hsl(282, 45%, 57%);
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: hsl(282, 54%, 89%);
+    color: rgb(110, 106, 106);
+}
+
+.colz-icon i {
+    color: rgb(110, 106, 106);
+    padding: 12px;
+    padding-left: 0;
+    transform: scale(1.5);
+}
+
+.colz-icon i:hover {
+    transform: scale(2);
+}
+
+#projects {
+    background-color: hsl(282, 54%, 89%);
+}
+
+.project_img {
+    height: 228px;
+}
+
+.card {
+    min-height: 360px;
+    line-height: 16px;
+}
+
+.my-btn-style {
+    background-color: #A65FC2 !important;
+    border-color: #A65FC2 !important;
+}
