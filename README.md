@@ -2,7 +2,7 @@
 My Portofolio website
 
 # App Description
- + Build simply using bootstrap 5
+ + Build simply using bootstrap 5 (https://getbootstrap.com/docs/5.1).
  + Type animation using TypedJS (https://github.com/mattboldt/typed.js).
  + Email service using Formsubmit (https://formsubmit.co/).
  + Fade animation using AOS (https://michalsnik.github.io/aos/).
