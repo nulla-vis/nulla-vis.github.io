@@ -21,3 +21,11 @@ for (let i = 0; i < btns.length; i++) {
 
     });
 }
+
+// AOS
+AOS.init();
+
+// GSAP
+gsap.from('.jumbotron img', { duration: 1, y: -100, opacity: 0, ease: 'bounce'});
+gsap.from('.navbar', { duration: 1.5, y: '-100%', opacity: 0, ease: 'bounce'});
+gsap.from('.display-4', { duration: 1.5, x: -50, opacity: 0, delay: 0.5, ease: 'back'});
